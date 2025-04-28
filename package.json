@@ -1,0 +1,25 @@
+{
+  "name": "tibetdiaries",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "hugo",        // Add this line
+    "hugo": "hugo"         // Add this line
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisbuckley/tibetdiaries.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denisbuckley/tibetdiaries/issues"
+  },
+  "homepage": "https://github.com/denisbuckley/tibetdiaries#readme",
+  "description": "",
+  "devDependencies": {
+    "hugo-cli": "^0.14.0"
+  }
+}
